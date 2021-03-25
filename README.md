@@ -1,5 +1,4 @@
-# computer-network-project---rdt_protocols
-# computer-networks-projects---chatting-app
+# computer-network-project---reliable_data_transfer_protocols
 * The project is to implement three reliable transfer protocol : Alternating Bit, Go-Back-N, and Selective Repeat.
 * The performance of these three protols are tested and analyzed after the implementation.
 
